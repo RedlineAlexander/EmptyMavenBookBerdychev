@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Empty Maven Book Berdychev:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Empty Maven Book Berdychev</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Empty Maven Book Berdychev.war">
+      <element id="artifact" artifact-name="Empty Maven Book Berdychev:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Empty Maven Book Berdychev:Web2 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Empty_Maven_Book_Berdychev_Web2_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Empty Maven Book Berdychev/web/Web2" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Empty Maven Book Berdychev" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
